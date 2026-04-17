@@ -36,38 +36,6 @@
 
 </div>
 
----
-
-### 💼 Projects
-
-#### 🧑‍🏫 Faculty Management System  
-- Developed a **desktop application** using **JavaFX** for faculty record management.  
-- Implemented **CRUD operations** with **MySQL + JDBC**.  
-- Designed **intuitive FXML UIs** styled with CSS.  
-- **Tech Stack:** JavaFX, JDBC, MySQL, OOP Design.
-
-#### 🎬 Movie Booking System *(Ongoing)*  
-- Console-based app to handle **movie listings, users, and bookings**.  
-- Using **File Handling** for persistent storage.  
-- Modular OOP design for scalability.  
-
----
-
-### 🎓 Education
-
-🎓 **B.Tech (CSIT)** — Sri Indu College of Engineering & Technology (2025)  
-📊 **CGPA:** 7.7 / 10.0  
-
-📘 **Intermediate** — Sree Chaitanya Junior College (Marks: 902 / 1000)  
-🏫 **SSC** — Sai Manair High School (CGPA: 9.8 / 10)
-
----
-
-### 🏅 Certifications  
-- 🧩 **Core Java (Internshala, 2024)** – OOPs, Exception Handling, Collections Framework
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
