@@ -19,7 +19,6 @@
 🌱 I’m learning **Full-Stack Development** and exploring **GenAI & Cloud technologies**.  
 💬 Ask me about **Java | SQL | Frontend basics (HTML, CSS)**  
 📫 Reach me at: **[aggojupranaykumar@gmail.com](mailto:aggojupranaykumar@gmail.com)**  
-📄 Check out my resume → [Resume PDF](./Pranay_resume.pdf)
 
 ---
 
